@@ -4,7 +4,6 @@
 # general
 .DS_Store
 .idea
-.vscode
 .history
 .temp
 .env.local
@@ -68,3 +67,7 @@ public/swe-worker*
 *.patch
 *.pdf
 vertex-ai-key.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
